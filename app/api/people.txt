@@ -1,0 +1,1 @@
+{"telco":"01","mo_time":"18/03/2021 00:54:27","cmd_code":"DK","msisdn":"84932668446","shortcode":"5656","info":"DK DNC"}
